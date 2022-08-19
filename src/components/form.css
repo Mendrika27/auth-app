@@ -1,0 +1,46 @@
+.champ{
+    border: #dda574 solid 2px;
+    background-color: #ecc19c;
+    width: fit-content;
+    height: 300px;
+    text-align: center;
+    padding: 3%;
+    align-content: center;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.champ h3{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+input{
+    margin-top: 5%;
+    margin-bottom: 20px;
+    background-color: #a8e0de9c;
+    border:  #1e847f solid 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+button{
+    color: #82d6d2;
+    background-color: #1e847f;
+    border: #ffc13b 1px hidden;
+    padding: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30%;
+    margin-left: 5%;
+}
+
+.logout{
+    margin: 0;
+    margin-top: 30%;
+}
+.home{
+    align-items: center;
+    text-align: center;
+}
+.home h3{
+    margin-top: 20%;
+    color: #1e847f;
+}
